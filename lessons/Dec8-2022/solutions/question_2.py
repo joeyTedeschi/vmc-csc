@@ -1,11 +1,26 @@
-# Write a program to create a function called show_employee()
+from math import sqrt
+from random import choice
 
-# It should accept the employee’s name and salary as arguments.
-# If the salary is missing in the function call then assign a default value of 9000 to salary
-# Display both values
 
-def show_employee(name, salary=9000):
-    print("Name:", name, "salary:", salary)
+def squareRoot(num):
+    return sqrt(num * 2)
 
-show_employee("Ben", 12000)
-show_employee("Jessa")
+
+def randomFromSeq(sequence):
+    return choice(sequence)
+
+
+num1 = int(input('Enter a number: '))
+num2 = input(
+    "Enter a second number, or 'skip' if you'd like to skip this number: ")
+
+if num2 == 'skip':
+    print(squareRoot(num1))
+else:
+    num2Int = int(num2)
+    if num1 > num2Int:
+        print(randomFromSeq(range(num2Int, num1 + 1)))
+    elif num2Int > num1:
+        print(randomFromSeq(range(num1, num2Int + 1)))
+    else:
+        print(num1)
