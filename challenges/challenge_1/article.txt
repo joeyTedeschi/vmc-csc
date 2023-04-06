@@ -1,0 +1,194 @@
+What is ChatGPT?
+ChatGPT is a natural language processing tool driven by AI technology that allows you to have human-like conversations and much more with the chatbot. The language model can answer questions and assist you with tasks like composing emails, essays, and code.
+
+Also: How does ChatGPT work?
+
+Usage is currently open to the public free of charge because ChatGPT is in its research and feedback-collection phase. As of Feb. 1, there is also a paid subscription version called ChatGPT Plus. 
+
+Who made ChatGPT?
+ChatGPT was created by OpenAI, an AI and research company. The company launched ChatGPT on Nov. 30, 2022. 
+
+Also: What is GPT-4? Here's everything you need to know
+
+OpenAI is also responsible for creating DALL-E-2, a popular AI art generator, and Whisper, an automatic speech recognition system. 
+
+How big a deal is ChatGPT?
+It's made a big splash. 
+
+"ChatGPT is scary good. We are not far from dangerously strong AI," said Elon Musk, who was one of the founders of OpenAI before leaving. Sam Altman, OpenAI's chief, said on Twitter that ChatGPT had more than 1 million users in the first five days after it launched. 
+
+According to an analysis by Swiss bank UBS, ChatGPT is the fastest-growing app of all time. The analysis estimates that ChatGPT had 100 million active users in January, only two months after its launch. For comparison, it took nine months for TikTok to reach 100 million. 
+
+For full story read: ChatGPT just became the fastest-growing 'app' of all time
+
+How can you access ChatGPT?
+You can access ChatGPT simply by visiting chat.openai.com and creating an OpenAI account. 
+
+Once you sign in, you can start chatting away with ChatGPT. Get your conversation started by asking a question. Because ChatGPT is still in its research stage, it is free to use and you can ask as many questions as you'd like.
+
+For step-by-step instructions, check out ZDNET's guide on how to start using ChatGPT.
+
+I tried using ChatGPT and it says it's at capacity, what does that mean?
+ChatGPT is still free to use. Because of the stir its advanced capabilities have made, many people are flocking to use it. The website operates using a server, and when too many people hop onto the server, it overloads and can't process your request. This doesn't mean you won't ever be able to access it. It just means you should try visiting the site at a later time when fewer people are trying to access it. You can also keep the tab open and just refresh it periodically. 
+
+Also: I tested Google Bard. It was surprisingly bad
+
+If you want to skip the wait and have reliable access, there is an option for you. As of Feb. 1, OpenAI has a ChatGPT pro plan, ChatGPT Plus, which allows users to have general access even during peak times, experience faster response times, and have priority access to new features and improvements including OpenAI's most advanced LLM, GPT-4. The premium services cost $20 per month. 
+
+How are people using ChatGPT?
+The model has many functions in addition to answering simple questions. ChatGPT can compose essays, describe art in great detail, create AI art prompts, have philosophical conversations, and even code for you. 
+
+Also: 5 ways to use chatbots to make your life easier
+
+My personal favorite is asking the chatbot for help creating basic lists such as packing, grocery, and to-do lists to make my daily life more productive. The possibilities are endless. 
+
+How does ChatGPT work?
+ChatGPT runs on a language model architecture created by OpenAI called the Generative Pre-trained Transformer (GPT). The specific GPT used by ChatGPT is fine-tuned from a model in the GPT-3.5 series, according to OpenAI. However, with a subscription to ChatGPT Plus, you can access ChatGPT with GPT-4, Open AI's most advanced model. 
+
+Also: Here's a deep dive into how ChatGPT works 
+
+Generative AI models of this type are trained on vast amounts of information from the internet, including websites, books, news articles, and more. 
+
+The language model was fine-tuned using supervised learning as well as reinforcement learning. The use of Reinforcement Learning from Human Feedback (RLHF) is what makes ChatGPT especially unique. Through RLHF, human AI trainers provided the model with conversations in which they played both parts, the user and AI assistants, according to OpenAI. 
+
+What is the difference between ChatGPT and a search engine?
+ChatGPT is a language model created to hold a conversation with the end user. A search engine indexes web pages on the internet to help the user find the information they asked for. ChatGPT does not have the ability to search the internet for information. It uses the information it learned from training data to generate a response, which leaves room for error. 
+
+Also: ChatGPT or Google: Which gives the best answers?
+
+Another major difference is that ChatGPT only has access to information up to 2021, whereas a regular search engine like Google has access to the latest information. So if you ask ChatGPT who won the World Cup in 2022, it wouldn't be able to give you a response as Google would. 
+
+What are ChatGPT's limitations?
+Despite looking very impressive, ChatGPT still has limitations. Such limitations include the inability to answer questions that are worded in a specific way, as it requires rewording to understand the input question. A bigger limitation is a lack of quality in the responses it delivers -- which can sometimes be plausible-sounding but make no practical sense or can be excessively verbose. 
+
+Also: These experts are racing to protect AI from hackers. Time is running out
+
+Instead of asking for clarification on ambiguous questions, the model just guesses what your question means, which can lead to unintended responses to questions. Already this has led developer question-and-answer site StackOverflow to at least temporarily ban ChatGPT-generated responses to questions.
+
+"The primary problem is that while the answers that ChatGPT produces have a high rate of being incorrect, they typically look like they might be good and the answers are very easy to produce," says Stack Overflow moderators in a post. Critics argue that these tools are just very good at putting words into an order that makes sense from a statistical point of view, but they cannot understand the meaning or know whether the statements it makes are correct.
+
+Also: OpenAI's ChatGPT is scary good at my job, but it can't replace me (yet)
+
+Another major limitation is that ChatGPT's data is limited to 2021. The chatbot does not have an awareness of events or news that have occurred since then. Therefore, some prompts will render no results, such as "Who won the World Cup in 2022?"
+
+Lastly, ChatGPT does not provide sources for its responses. So you will never know exactly where the chatbot pulled its information from and can't verify its accuracy by visiting the original source. 
+
+Can I chat with ChatGPT?
+Although some people are using ChatGPT for some elaborate functions such as writing code or even malware, you can use ChatGPT for more mundane activities like having a friendly conversation. 
+
+Also: How to use ChatGPT to build your resume
+
+Some conversation starters could be as simple as "I am hungry, what food should I get?" or as elaborate as, "What do you think happens in the afterlife?" Either way, ChatGPT is sure to have an answer for you. 
+
+Why are some people worried about ChatGPT?
+People are expressing concerns about AI chatbots replacing or atrophying human intelligence. For example, the chatbot can write an article on any topic efficiently (though not necessarily accurately) within seconds, potentially eliminating the need for a human writer. The chatbot can also write an entire full essay within seconds, making it easier for students to cheat or avoid learning how to write properly. This has led to some school districts blocking access to it. 
+
+Also: How to make ChatGPT provide sources and citations
+
+Another concern with the AI chatbot is the possible spread of misinformation. Since the bot is not connected to the internet, it could make mistakes in what information it shares. 
+
+The bot itself says, "My responses are not intended to be taken as fact, and I always encourage people to verify any information they receive from me or any other source." OpenAI itself also notes that ChatGPT sometimes writes "plausible-sounding but incorrect or nonsensical answers."  
+
+Does a tool that recognizes ChatGPT text exist?
+With concerns about students using ChatGPT to cheat, the need for a ChatGPT text detector is becoming more evident. OpenAI, the AI research company behind ChatGPT, released an imperfect, free tool to target this problem. OpenAI's "classifier" tool can only correctly identify 26% of AI-written text with a "likely AI-written" designation. Furthermore, it provides false positives 9% of the time, incorrectly identifying human-written work as AI written. 
+
+Also: ChatGPT maker OpenAI has a free tool that can spot AI-written text
+
+Other AI detectors also exist on the market including GPT-2 Output Detector, Writer AI Content Detector, and Content at Scale AI Content Detection. However, ZDNET put all three of these tools to the test and the results were underwhelming. All three of the tools were found to be unreliable sources for spotting AI, repeatedly giving false negatives. Here are ZDNET's full test results. 
+
+Although tools aren't sufficient to detect ChatGPT-generated writing, a study shows that humans may be able to detect it by looking for politeness within the text. The study's results indicate that ChatGPT's writing style is extremely polite. And unlike humans, it cannot produce responses that include metaphors, irony, or sarcasm.
+
+Is ChatGPT a good or bad thing?
+ChatGPT is an advanced chatbot that has the potential to make people's lives easier and to assist with everyday tedious tasks, such as writing emails or navigating the web for answers. However, certain technical details have to be figured out before it's widely used to prevent negative outcomes such as the spread of misinformation. In general, AI and ML models rely on lots of training and fine-tuning to reach a level of ideal performance. 
+
+Also: I wish I had ChatGPT when I was in college. But not for the reason you might expect
+
+Does it mean that AI is taking over the world? Not yet, perhaps, but OpenAI's Altman certainly thinks that human-style intelligence in AI is now not that far off. Responding to Musk's comment about dangerously strong AI, Altman tweeted: "I agree on being close to dangerously strong AI in the sense of an AI that poses e.g. a huge cybersecurity risk. and i think we could get to real AGI in the next decade, so we have to take the risk of that extremely seriously too."
+
+Also: 5 ways ChatGPT can help you write an essay
+
+He also noted: "interesting watching people start to debate whether powerful AI systems should behave in the way users want or their creators intend. the question of whose values we align these systems to will be one of the most important debates society ever has."
+
+What is GPT-4?
+GPT-4 is the newest version of OpenAI's language model systems, and it is much more advanced than its predecessor GPT-3.5, which ChatGPT runs on. 
+
+GPT-4 is a multimodal model that accepts both text and images as input and outputs text. This can be useful for uploading worksheets, graphs, and charts to be analyzed. 
+
+Also: What is GPT-4? Here's everything you need to know
+
+Currently, GPT-4's text input capabilities are the only ones available to the public. Users can access them by subscribing to ChatGPT Plus for $20 per month or by using Bing Chat.
+
+The day that GPT-4 was unveiled by OpenAI, Microsoft shared that its chatbot, Bing Chat, had been running on GPT-4 since its launch. This chatbot is free to use but requires users to join a waitlist for access. 
+
+GPT-4 has advanced intellectual capabilities that allow it to outperform GPT-3.5 in a series of simulated benchmark exams. It has also reduced the number of hallucinations produced by the chatbot. 
+
+Are there alternatives to ChatGPT worth considering?
+Although ChatGPT is the chatbot getting all the buzz right now, there are other options that are just as good and might even be better suited for your needs. 
+
+Also: The best AI chatbots: ChatGPT and other fun alternatives to try
+
+Despite ChatGPT's extensive abilities, there are some major downsides to the AI chatbot, including that the free version is often at capacity. If you want to give the world of AI chatbots and writers a try, there are plenty of other options to consider, including Bing Chat, YouChat, Jasper, and Chatsonic.  
+
+Is ChatGPT smart enough to pass benchmark exams?
+Yes, ChatGPT is capable of passing a series of benchmark exams. A professor at Wharton, the University of Pennsylvania's business school, used ChatGPT to take an MBA exam and the results were quite impressive. 
+
+ChatGPT not only passed the exam but also scored a whopping B to  B-. The professor, Christian Terwiesch, was impressed at its basic operations management, process analysis questions, and explanations.  
+
+Also: ChatGPT took an MBA exam. Here's how it did
+
+OpenAI also tested the chatbot's ability to pass benchmark exams. Although ChatGPT could pass many of these benchmark exams, its scores were usually in the lower percentile. However, with GPT-4, ChatGPT can score much higher.
+
+For example, ChatGPT in the 3.5 series scored in the lower 10th percentile of a simulated Bar Exam, while GPT-4 scored in the top 10th percentile. More examples from OpenAI are seen in the chart below. 
+
+Is ChatGPT coming to social media?
+ChatGPT's first appearance in the social media space is its collaboration with Snapchat. On Feb. 7, Snapchat unveiled an integration of ChatGPT which will allow Snapchat+ subscribers to chat with the bot within its app. 
+
+Also: ChatGPT is coming to Snapchat. Just don't tell it your secrets
+
+The feature, called "My AI", will include some ChatGPT limitations, including the refusal to provide responses about politics, violence, swearing, and even academic essay writing, according to The Verge.
+
+What is Microsoft's involvement with ChatGPT?
+Microsoft was an early investor in OpenAI, the AI research company behind ChatGPT, long before ChatGPT was released to the public. Microsoft's first involvement with OpenAI was in 2019 when Microsoft invested $1 billion, and then $2 billion in the years after. In January, Microsoft extended its partnership with OpenAI through a multi-year, multi-billion dollar investment. 
+
+Neither company disclosed the investment value, but sources revealed it will total $10 billion over multiple years, according to Bloomberg. In return, Microsoft's Azure service will be OpenAI's exclusive cloud computing provider, powering all OpenAI workloads across research, products, and API services.
+
+Also: I tried Bing's AI chatbot, and it solved my biggest problems with ChatGPT
+
+Microsoft has also used its partnership with OpenAI to revamp its own Bing search engine and improve its browser. On Feb. 7, Microsoft unveiled a new Bing search engine that runs on a next-generation OpenAI large language model customized specifically for search. 
+
+Access to Bing's AI-powered chatbot, Bing Chat, is currently limited. However, ZDNET was granted early access and was impressed with the results. 
+
+What does Bing Chat have to do with ChatGPT?
+In early February, Microsoft unveiled a new version of Bing -- and its standout feature is its integration with ChatGPT. When it was announced, Microsoft shared that Bing Chat was powered by a next-generation version of OpenAI's large language model, making it "more powerful than ChatGPT". 
+
+Five weeks after launch, Microsoft revealed that since its launch, Bing Chat had been running on GPT-4, the most advanced Open AI model, before the model even launched. 
+
+Also: ChatGPT vs. Bing Chat: Which AI chatbot should you use?
+
+Because Bing's ChatGPT is linked to the internet, the biggest difference from ChatGPT is that Bing's version has information on current events. Another major advantage of the new Bing is that it links back to the sources it pulls information from, leaving less room for misinformation. 
+
+What is Google Bard and how does it relate to ChatGPT?
+Bard is Google's AI chat service, a rival to ChatGPT. On Feb. 6, Google introduced its experimental AI chat service. Over a month since the announcement, Google began rolling out access to Bard via a waitlist.
+
+Also: What is Google Bard? Here's everything you need to know
+
+Bard uses a lightweight version of Google's Language Model for Dialogue Applications (LaMDA) and draws on all the information from the web to respond -- a stark contrast from ChatGPT, which does not have internet access. 
+
+Google's chat service has had a rough launch, with a demo of Bard delivering inaccurate information about the James Webb Space Telescope (JWST). 
+
+Google told ZDNET reporter Stephanie Condon, "This highlights the importance of a rigorous testing process, something that we're kicking off this week with our Trusted Tester program," in a statement. 
+
+Since Google began rolling out the chatbot, ZDNET had the opportunity to test the chatbot and the results were surprising -- in a bad way. 
+
+Will ChatGPT become a paid service anytime soon?
+As of Feb.1, ChatGPT offers a paid subscription model called ChatGPT Plus. With the chatbot's skyrocketing popularity, it was only a matter of time before OpenAI rolled out a paid subscription model. 
+
+The pro plan gives users general access even during peak times when the free version is at capacity. Users will also experience faster response times and have priority access to new features and improvements including access to GPT-4. The premium services come at a cost of $20 per month. 
+
+Also: 6 things ChatGPT can't do (and another 20 it refuses to do)
+
+The launch of a paid version had been rumored before the official release. In January, OpenAI announced on its Discord server that it was considering to start charging for ChatGPT with a version called ChatGPT Professional. 
+
+OpenAI uploaded a waitlist for access to the pro service on Discord. The waitlist outlined that the new service would provide users with service that is always available (no blackout windows), fast responses from ChatGPT, and unlimited messages. While the cost for this service has not been announced, one of the survey questions on the waitlist form asks what price per month the user would consider paying for ChatGPT Pro. 
+
+An early access user, shared a video on Twitter running a test prompt on the pro version that ran much quicker than the free version the rest of the public has access to. In the video, Khawaja showed his subscription cost, which was $42 per month. Now we know the actual cost OpenAI set for this plan is about half the early access user's cost. 
